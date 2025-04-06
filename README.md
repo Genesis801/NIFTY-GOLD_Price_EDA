@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d368343f-b36d-4505-9b61-a175b746727e)# NIFTY-GOLD_Price_EDA
+## NIFTY-GOLD_Price_EDA
 This project performs an exhaustive statistical analysis between NIFTY-50 and Gold Prices from FY-16 till FY-22
 
 1. The initial aim for this project is to co-relate the price fluctuation between NIFTY-50 and gold.
