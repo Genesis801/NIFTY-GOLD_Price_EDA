@@ -43,10 +43,11 @@ Granger analysis shows us that the asset classes are not directly following a li
   - Finally we see a neutral regime when the market consolidates.
 
 ![image](https://github.com/user-attachments/assets/c711e537-ad67-4195-8575-06153b089a3b)
-From the above analysis we can see that the volatility of gold is less, and gold almost never gives a negative return even during the worst NIFTY returns phase.
+- From the Regime Analysis we see that during a bullish trend the returns of gold are consolidated in a very less returns and the percentage of negative returns in this phase is very dense.
+- On the other hand during a bearish trend the negative returns of GOLD is sparse and the positive returns is dense, indicating that during a bear market gold gives substantial returns.
 
 ![image](https://github.com/user-attachments/assets/97ab7ae0-1450-49dc-a075-c28319307b0d)
 
-
+Finally, when see a 7-Year Returns for both asset classes. NIFTY might give more returns but from a volatility point of view gold is much safe and can provide more return on investment in bearish market situations.
 
 
